@@ -21,4 +21,5 @@ I Love My family 🏠 and My homeland 🇨🇳 !!!
 <!---
 zld126126/zld126126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+emoji直接复制网站 ---> https://copy.emojiall.com/zh-hans/
 --->
