@@ -11,6 +11,7 @@ I Love My family 🏠 and My homeland 🇨🇳 !!!
 - 👦 My Gril: [zld126126](https://github.com/zld126126)
 - 💬 WeChat: landon126
 - ⚒ More social media: [CSDN](https://blog.csdn.net/aaaadong) / [微博](https://weibo.com/u/678558973)
+- 🤝 More Emoji: {emoji](https://copy.emojiall.com/zh-hans/)
 
 <p>
     <a href="https://zld126126.github.io/">
@@ -21,5 +22,4 @@ I Love My family 🏠 and My homeland 🇨🇳 !!!
 <!---
 zld126126/zld126126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-emoji直接复制网站 ---> https://copy.emojiall.com/zh-hans/
 --->
