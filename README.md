@@ -11,17 +11,7 @@
 - ⚒ More social media: [CSDN](https://blog.csdn.net/aaaadong) / [微博](https://weibo.com/u/678558973)
 - 🤝 More Emoji: [Emoji](https://copy.emojiall.com/zh-hans/)
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=zld126126&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=zld126126&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=zld126126&show_icons=true" />
-</picture>
+[![zld126126](https://github-readme-stats.vercel.app/api?username=zld126126)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 zld126126/zld126126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
