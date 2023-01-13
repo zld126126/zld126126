@@ -11,11 +11,7 @@
 - ⚒ More social media: [CSDN](https://blog.csdn.net/aaaadong) / [微博](https://weibo.com/u/678558973)
 - 🤝 More Emoji: [Emoji](https://copy.emojiall.com/zh-hans/)
 
-<p>
-    <a href="https://zld126126.github.io/">
-      <img src="https://github-profile-trophy.vercel.app/?username=zld126126&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
-    </a>
-</p>
+<p><a href="https://zld126126.github.io/"><img src="https://github-profile-trophy.vercel.app/?username=zld126126&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4"/></a></p>
 
 <!---
 zld126126/zld126126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
